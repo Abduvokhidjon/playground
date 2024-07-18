@@ -3,3 +3,4 @@ How to cook omelete
 1. whisk eggs
 2. add milk
 3. cook
+4. serve
